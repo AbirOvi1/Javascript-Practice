@@ -68,6 +68,6 @@ console.log (student ['fullName']); */
 // for (let myName = 1; myName<=11; myName++)
 // {console.log ('My name is AbirOvi!');}
 
-let firstName = 'Abir';
-console.log (firstName.length);
+// let firstName = 'Abir';
+// console.log (firstName.length);;
 
