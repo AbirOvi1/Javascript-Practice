@@ -71,3 +71,5 @@ console.log (student ['fullName']); */
 // let firstName = 'Abir';
 // console.log (firstName.length);;
 
+console.log (5+5);
+
